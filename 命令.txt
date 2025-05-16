@@ -1,0 +1,5 @@
+git add .  暂存所有更改文件
+git commit -m "提交"
+git push 提交所有文件
+git pull 从云端仓库拉取文件到本地
+//命令行提交
